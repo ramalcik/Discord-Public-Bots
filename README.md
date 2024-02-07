@@ -10,3 +10,6 @@ Public Sunucular için ideal bir bot sslerini altda koyucam detaylı açıklamay
 ![image](https://cdn.discordapp.com/attachments/1126245205629206628/1204598553020993587/say.PNG?ex=65d550d3&is=65c2dbd3&hm=b13f1332a88ae44d2b30fbae4cfad0c80e7fa28525d9623dcf2069b0e9c64b57&)
 ![image](https://cdn.discordapp.com/attachments/1126245205629206628/1204757622528679946/image.png?ex=65d5e4f8&is=65c36ff8&hm=c5dc4a177d8236b90f5564fbb31d35c3e90fa1a8230c3e612c99e54dbfb4b257&)
 ![image](https://cdn.discordapp.com/attachments/1157800686248022177/1204755400277364808/image.png?ex=65d5e2e6&is=65c36de6&hm=155888ae07d3252941e6caf792a311ea00991f672f995ca054ee8006bb538d97&)
+![image](https://cdn.discordapp.com/attachments/1157800686248022177/1204768761249406978/image.png?ex=65d5ef58&is=65c37a58&hm=53c44183f0e80fc5389a475623fe59ae039b55348fce474cc9d58d32a931357d&)
+![image](https://cdn.discordapp.com/attachments/1157800686248022177/1204768462048596009/image.png?ex=65d5ef10&is=65c37a10&hm=4068110f1cc40d90ab3625e534a605acb303823c99e2ad257c2d9828bd3e94e9&)
+![image](https://cdn.discordapp.com/attachments/1157800686248022177/1204760299467702342/image.png?ex=65d5e776&is=65c37276&hm=99be051cb62f9a047ef3d71e7185dc2771af0d4ae906ecf962c14e4e93cf6c47&)
